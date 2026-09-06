@@ -1,0 +1,6 @@
+{
+  "name": "AGENCHAD",
+  "description": "AGENCHAD - Agenda d'élite synchronisé en temps réel avec IA Gemini intégrée, commandes vocales Siri/Gemini, gestion de projets par groupes et comptes personnalisés.",
+  "requestFramePermissions": ["notifications", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
